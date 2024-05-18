@@ -37,7 +37,6 @@ header h1 {
 .choice img {
     height: 200px;
     width: 200px;
-    gap: 2rem;
     object-fit: contain;
     display: block;
     margin: 0 auto;
@@ -81,6 +80,7 @@ footer {
     .choice img {
         height: 100px;
         width: 100px;
+        gap: 0.2rem;
     }
 
     .score-board {
